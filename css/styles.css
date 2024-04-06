@@ -1,0 +1,64 @@
+.body {
+  --blue: #2196f3;
+  --white: #ffffff;
+  --black: #212121;
+  --gray: #2f303a;
+  --light-gray: #757575;
+  --font-family: 'Roboto' sans-serif;
+  --logo-font: 'Raleway' sans-serif;
+}
+
+.header {
+  background-color: var(--white);
+  width: 1600px;
+  height: 80px;
+  border: 1px;
+}
+
+.header__logo {
+  text-decoration: none;
+  width: 145px;
+  height: 31px;
+  top: 24px;
+  left: 215px;
+
+  font-style: var(--logo-font);
+  font-size: 26px;
+  font-weight: 700;
+  text-align: left;
+  font-style: var(--font-family);
+  color: var(--blue);
+}
+
+.header__navigation {
+  text-decoration: none;
+  width: 259px;
+  height: 16px;
+  top: 32px;
+  left: 453px;
+}
+
+.header__info {
+  width: 135px;
+  height: 16px;
+  top: 32px;
+  left: 1088px;
+}
+
+.header__title {
+}
+
+.header__request {
+}
+
+.filters-section {
+  text-decoration: none;
+}
+
+.portfolio-section {
+  text-decoration: none;
+}
+
+.footer {
+  background-color: var(--gray);
+}
