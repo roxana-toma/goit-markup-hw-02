@@ -110,7 +110,6 @@ body {
 
 .main-wwd strong {
   text-transform: capitalize;
-  font-family: var(--primary-font);
   font-size: 14px;
   font-weight: 700;
   line-height: 1.1;
@@ -119,7 +118,6 @@ body {
 
 .main-wwd {
   text-transform: capitalize;
-  font-family: var(--primary-font);
   font-size: 14px;
   font-weight: 400;
   line-height: 1.7;
@@ -127,7 +125,6 @@ body {
 }
 
 .main-wwd__title {
-  font-family: var(--primary-font);
   font-size: 36px;
   font-weight: 700;
   line-height: 1.1;
@@ -142,7 +139,6 @@ body {
 }
 
 .main-team__title {
-  font-family: var(--primary-font);
   font-size: 36px;
   font-weight: 700;
   line-height: 1.1;
@@ -151,7 +147,6 @@ body {
 }
 
 .main-team__list {
-  font-family: var(--primary-font);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.2;
@@ -161,7 +156,6 @@ body {
 }
 
 .main-team__list b {
-  font-family: var(--primary-font);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.2;
@@ -202,30 +196,18 @@ body {
 }
 
 .footer__contact-address {
-  font-family: var(--primary-font);
   font-size: 14px;
   font-weight: 400;
   line-height: 1.1;
 }
 
 .footer__contact-address {
-  font-family: var(--primary-font);
   font-size: 14px;
   font-weight: 400;
   line-height: 1.1;
-}
-
-.footer__contact-details {
-  font-family: var(--primary-font);
-  font-size: 14px;
-  font-weight: 400;
-  line-height: 1.1;
-  color: var(--light-gray);
-  text-decoration: none;
 }
 
 .footer__contact-details a {
-  font-family: var(--primary-font);
   font-size: 14px;
   font-weight: 400;
   line-height: 1.1;
@@ -233,8 +215,7 @@ body {
   color: var(--light-gray);
 }
 
-. .footer__contact-details a:hover {
-  font-family: var(--primary-font);
+.footer__contact-details a:hover {
   font-size: 14px;
   font-weight: 400;
   line-height: 1.1;
@@ -250,7 +231,6 @@ body {
 }
 
 .filters-section li {
-  font-family: var(--primary-font);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.8;
@@ -280,7 +260,6 @@ body {
 }
 
 .portfolio-section li {
-  font-family: var(--primary-font);
   font-size: 16px;
   font-weight: 400;
   line-height: 1.8;
@@ -290,7 +269,6 @@ body {
 }
 
 .portfolio-section b {
-  font-family: var(--primary-font);
   font-size: 18px;
   font-weight: 700;
   line-height: 2;
